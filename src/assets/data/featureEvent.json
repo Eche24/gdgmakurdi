@@ -1,0 +1,21 @@
+{
+    "FeatureEventName":"Cloud Study Jam Makurdi ",
+    "EventImage":"cloud.jpeg",
+    "EventDate":{
+        "Date":"7",
+        "Month":"9",
+        "Year":"2019"
+    },
+    "EventTime":{
+        "StartTime":"09:00 AM",
+        "EndTime":"04:30 PM"
+    },
+    "EventVenue":"minstry of education makurdi, benue state",
+    "EventVenueMapLink":"https://goo.gl/maps/FJAE7ezE1ZsTBDxTA",
+    "EventWebsite":"https://www.meetup.com/GDG-Makurdi/events/263707822/",
+    "EventDescription":"Want to get started on the Google Cloud, but don't know where to begin? Join us for our Cloud Study Jam!.",
+    "MeetupLink":"https://www.meetup.com/GDG-Makurdi/events/263707822/",
+    "RegistrationLink":"https://www.meetup.com/GDG-Makurdi/events/263707822/",
+    "FBEventPageURL":""
+}
+
