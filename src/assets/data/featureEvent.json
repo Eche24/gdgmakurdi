@@ -1,19 +1,19 @@
 {
-    "FeatureEventName":"Cloud Study Jam Makurdi ",
-    "EventImage":"cloud.jpeg",
+    "FeatureEventName":"DevFest Makurdi 2019 ",
+    "EventImage":"hero.gif",
     "EventDate":{
-        "Date":"7",
-        "Month":"9",
+        "Date":"26",
+        "Month":"10",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"09:30 AM",
+        "EndTime":""
     },
-    "EventVenue":"minstry of education makurdi, benue state",
-    "EventVenueMapLink":"https://goo.gl/maps/FJAE7ezE1ZsTBDxTA",
+    "EventVenue":"HealthyWays Kitchen and Grill, Is inside the same compound as HealthyWays Gym and Spa, Emmanual Mande Close, Old G.R.A Makurdi",
+    "EventVenueMapLink":"https://goo.gl/maps/pd4CHkfpExyzYYCd7",
     "EventWebsite":"https://www.meetup.com/GDG-Makurdi/events/263707822/",
-    "EventDescription":"Want to get started on the Google Cloud, but don't know where to begin? Join us for our Cloud Study Jam!.",
+    "EventDescription":"Devfest Makurdi 2019 promises to be even more exciting as we are set to bring together more developers, tech enthusiast and amazing speakers within and outside Makurdi together to experience our annual developer festival and the amazing Humans of GDG Makurdi.",
     "MeetupLink":"https://www.meetup.com/GDG-Makurdi/events/263707822/",
     "RegistrationLink":"https://www.meetup.com/GDG-Makurdi/events/263707822/",
     "FBEventPageURL":""

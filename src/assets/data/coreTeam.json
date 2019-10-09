@@ -1,56 +1,38 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Pius Aboyi",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/ea_pius",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"pius.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"gdg mkd",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"eche.jpeg",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
+        "name":"Amama Moses Anslem",
+        "designation":"Co-Organizer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "linkedin":"https://www.linkedin.com/in/amama-moses-anslem-4a33a4162",
+        "github":"https://github.com/amacodes4",
+        "profileImage":"moses.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Godwin Valerie",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/GodwinValerie1",
+        "linkedin":"https://www.linkedin.com/in/godwin-valerie-534696165",
+        "github":"https://github.com/favourval",
+        "profileImage":"favour.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "name":"Eko Uko Onaji",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/Eko_uko_onaji",
+        "linkedin":"https://www.linkedin.com/in/eko-uko-onaji-62a538153",
+        "github":"https://github.com/Ekolight",
+        "profileImage":"eko.jpg",
         "website":""
     }
 ]

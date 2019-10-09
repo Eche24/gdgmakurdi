@@ -1,10 +1,10 @@
 <template>
   <v-container class="pa-0">
     <v-layout wrap align-center justify-center row fill-height>
-      <v-flex xs12 sm5 md3 lg3 xl3 class="text-xs-center pa-3">
+      <v-flex xs12 sm5 md5 lg4 xl3 class="text-xs-center pa-3">
         <v-img
-          :src="require('@/assets/img/gdg.jpg')"
-          :lazy-src="require('@/assets/img/gdg.jpg')"
+          :src="require('@/assets/img/gdgmkd.jpg')"
+          :lazy-src="require('@/assets/img/gdgmkd.jpg')"
           width="100%"
         >
           <v-layout slot="placeholder" fill-height align-center justify-center ma-0>
@@ -12,7 +12,7 @@
           </v-layout>
         </v-img>
       </v-flex>
-      <v-flex xs12 sm7 md8 lg8 xl8 class>
+      <v-flex xs12 sm7 md7 lg8 xl8 class>
         <p class="google-font mb-1" style="font-weight: 350;color: #616161;font-size:300%">
           <b>
             Make good things
@@ -27,10 +27,14 @@
         <v-btn
           :href="chapterDetails.devFest"
           target="_blank"
-          class="ma-0 google-font elevation-1"
-          color="#F44336"
-          style="text-transform: capitalize;border-radius:5px;color:white;font-size: 1.3em;padding-top: 1.2em;padding-bottom: 1.2em;"
-        >DevFest 2019</v-btn>
+          round
+          color="red"
+          style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;"
+          outline
+          class="ml-0"
+          dark
+          
+        >DevFest makurdi 2019</v-btn>
 &nbsp;
         <v-btn
           :href="chapterDetails.ChapterMeetupLink"
