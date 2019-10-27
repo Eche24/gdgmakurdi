@@ -24,7 +24,7 @@
         <p class="google-font" style="font-size:110%;color:#9e9e9e">
           <span v-for="(item,i) in chapterDetails.ChapterHashTags" :key="i">#{{item}} &nbsp;</span>
         </p>
-        <v-btn
+        <!-- <v-btn
           :href="chapterDetails.devFest"
           target="_blank"
           round
@@ -35,7 +35,7 @@
           dark
           
         >DevFest makurdi 2019</v-btn>
-&nbsp;
+&nbsp; -->
         <v-btn
           :href="chapterDetails.ChapterMeetupLink"
           target="_blank"
@@ -43,7 +43,7 @@
           color="#1a73e8"
           style="text-transform: capitalize;border-radius:5px;color:white"
         >Become a Member</v-btn>
-<!-- &nbsp;
+&nbsp;
         <v-btn
           :href="chapterDetails.GDGProgramWebsite"
           target="_blank"
@@ -53,7 +53,7 @@
           outline
           class="ml-0"
           dark
-        >Learn More</v-btn> -->
+        >Learn More</v-btn>
       </v-flex>
     </v-layout>
   </v-container>
